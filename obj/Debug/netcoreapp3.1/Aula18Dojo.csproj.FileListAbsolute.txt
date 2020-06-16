@@ -1,0 +1,11 @@
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula18Dojo.csprojAssemblyReference.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula18Dojo.AssemblyInfoInputs.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula18Dojo.AssemblyInfo.cs
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula18Dojo.exe
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula18Dojo.deps.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula18Dojo.runtimeconfig.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula18Dojo.runtimeconfig.dev.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula18Dojo.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula18Dojo.pdb
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula18Dojo.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula18Dojo.pdb
